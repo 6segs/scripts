@@ -1,5 +1,3 @@
-game.CoreGui.SpectatorsList.Enabled = true
-
 local dragger = {}; do
 	local mouse        = game:GetService("Players").LocalPlayer:GetMouse();
 	local inputService = game:GetService('UserInputService');
